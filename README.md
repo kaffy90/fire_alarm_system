@@ -1,0 +1,1 @@
+An interactive low-cost smart device to detect Smoke Fire Gas in residential buildings to avoid disasters related to fire and gas incidents

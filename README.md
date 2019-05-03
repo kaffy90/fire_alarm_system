@@ -4,11 +4,11 @@ A low-cost smart device to detect Smoke Fire Gas in residential buildings to avo
 
 **Project requirements**
 
-Raspberry Pi
-Buzzer 
-Fire sensor 
-Smoke sensor 
-Gas sensor
-lcd display 
-Python. 
-IOT platform (AWS).
+* Raspberry Pi
+* Buzzer 
+* Fire sensor 
+* Smoke sensor 
+* Gas sensor
+* lcd display 
+* Python. 
+* IOT platform (AWS)
